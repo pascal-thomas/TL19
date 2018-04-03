@@ -3,7 +3,7 @@ Objective: Change the default start screen (after login)
 
 Expected duration: 5 minutes
 
-## 1. Deploying application
+## [1. Deploying application](exercise1/README.md)
 First we deploy the supplied application to the author instance.
 
 open a terminal
