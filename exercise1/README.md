@@ -19,12 +19,15 @@ mvn clean install -PautoInstallPackage
 3. Here you can set the screen the user gets after login:
 * sites -> /sites.html/content
 * assets -> /assets.html/content/dam
+
 Test this by log-out/log-in, then you would be redirected to a different page
 
-3. Dynamic start page
-Go to http://localhost:4502/system/console/configMgr
-Search for 'Day CQ Root Mapping'
-Set the rootMapping to: '/bin/defaultpage'
+## 3. Dynamic start page
+
+1. Go to http://localhost:4502/system/console/configMgr
+2. Search for 'Day CQ Root Mapping'
+3. Set the rootMapping to: '/bin/defaultpage'
+
 When you login with the user: 'varmstrong' (password 'varmstrong'), you go directly to Assets -> We-Retail -> English.
 
 If you look at the supplied code, there is a servlet called 'DefaultPageServlet' (package adobesummit.core.servlets). This servlet is implementing a dynamic startpage depending on the user.
