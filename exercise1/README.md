@@ -1,4 +1,4 @@
-# [Exercise 1](exercise1/README.md)
+# Exercise 1
 Objective: Change the default start screen (after login)
 
 Expected duration: 5 minutes
