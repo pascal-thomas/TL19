@@ -6,10 +6,12 @@ Expected duration: 5 minutes
 ## [1. Deploying application](exercise1/README.md)
 First we deploy the supplied application to the author instance.
 
-open a terminal
-go to $CODE: cd $CODE
-build and deploy the application via this command:
+1. open a terminal
+2. go to $CODE: cd $CODE
+3. build and deploy the application via this command:
 mvn clean install -PautoInstallPackage
+
+
 2. Change the default screen
 Go to http://localhost:4502/system/console/configMgr
 Search for 'Day CQ Root Mapping'
