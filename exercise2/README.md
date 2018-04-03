@@ -1,21 +1,22 @@
-Exercise 2
+# Exercise 2
+
 Objective: Custom loginscreen presented to users
 
 Expected duration: 20 minutes
 
 In the supplied application at the location /apps/L729/login there is a custom loginscreen.
 
-Setting the custom login screen
+## Setting the custom login screen
 First we deploy the supplied application, and specify the new loginscreen in the OSGi-settings.
 
-open a terminal
-go to $CODE: cd $CODE
-build and deploy the application via this command:
-mvn clean install -PautoInstallPackage
-Go to http://localhost:4502/system/console/configMgr
-Search for 'Adobe Granite Login Selector Authentication Handler'
-In that configuration screen, set the following value for 'Default Login Page': /apps/L729/login
-Go to another browser and try the custom loginscreen (http://localhost:4502 would bring up the loginpage)
+1. open a terminal
+2. go to $CODE: cd $CODE
+3. build and deploy the application via this command:
+   mvn clean install -PautoInstallPackage
+4. Go to http://localhost:4502/system/console/configMgr
+5. Search for 'Adobe Granite Login Selector Authentication Handler'
+6. In that configuration screen, set the following value for 'Default Login Page': /apps/L729/login
+7. Go to another browser and try the custom loginscreen (http://localhost:4502 would bring up the loginpage)
 NOTE: See the path changing in your browser from /libs to /apps
 
 Change the background images
