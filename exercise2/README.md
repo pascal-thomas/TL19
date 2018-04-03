@@ -37,19 +37,19 @@ Now you can customize it to your own needs.
 Other things your can change:
 
 ### Links at the bottom
-/apps/L729/login/configs/cq/footer/items
+/apps/TL19/login/configs/cq/footer/items
 
 ### Background images
-/apps/L729/login/clientlib/resources/bg
+/apps/TL19/login/clientlib/resources/bg
 
 ### Description in the login form
-/apps/L729/login/configs/cq/box
+/apps/TL19/login/configs/cq/box
 
 ### Title of the loginpage
-/apps/L729/login/configs/cq
+/apps/TL19/login/configs/cq
 
 ### Copyright text
-/apps/L729/login/configs/cq/footer/copy
+/apps/TL19/login/configs/cq/footer/copy
 
 ## Enabling environment indicator
 This enables a handy indicator to show at what environment you are.
