@@ -6,7 +6,7 @@ The following elements are supplied with the lab:
 * Custom application provided in code/L729
 * Atom (texteditor)
  
-Gist used during the lab: https://gist.github.com/heervisscher/df81cc26d6fce5d1f0441bbbfedf4fd3
+Gist used during the lab: 
 
 Outline of the lab:
 
