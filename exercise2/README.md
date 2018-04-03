@@ -36,32 +36,34 @@ Now you can customize it to your own needs.
 
 Other things your can change:
 
-Links at the bottom
+### Links at the bottom
 /apps/L729/login/configs/cq/footer/items
 
-Background images
+### Background images
 /apps/L729/login/clientlib/resources/bg
 
-Description in the login form
+### Description in the login form
 /apps/L729/login/configs/cq/box
 
-Title of the loginpage
+### Title of the loginpage
 /apps/L729/login/configs/cq
 
-Copyright text
+### Copyright text
 /apps/L729/login/configs/cq/footer/copy
 
-Enabling environment indicator
+## Enabling environment indicator
 This enables a handy indicator to show at what environment you are.
 
-Go to the OSGi configuration console (localhost:4502/system/console/configMgr)
-Go the following configuration: ACS AEM Commons - AEM Environment Indicator
-Set the values as follows:
-color: purple
-CSS override: #acs-commons-env-indicator { background-color: #6321D7; color: #FFF;
+1. Go to the OSGi configuration console (localhost:4502/system/console/configMgr)
+2. Go the following configuration: ACS AEM Commons - AEM Environment Indicator
+3. Set the values as follows:
+
+* color: purple
+* CSS override: #acs-commons-env-indicator { background-color: #6321D7; color: #FFF;
 position: fixed; top: 0; left: 50%; width: 126px; margin-left: -63px; height: 30px; font: bold 18px/29px sans-serif; text-align: center; border: solid 1px black; border-top-width: 0; z-index: 100000000000000; }
-Inner HTML: DEV
-Browser title: DEV
+* Inner HTML: DEV
+* Browser title: DEV
+
 After saving the changes, you will see the indicator being shown on every screen in the author environment.
 
 This is functionality that is provided by "ACS AEM commons", you read more here: https://adobe-consulting-services.github.io/acs-aem-commons/features/environment-indicator/index..html
