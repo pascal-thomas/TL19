@@ -18,7 +18,7 @@ mvn clean install -PautoInstallPackage
 2. Search for 'Day CQ Root Mapping'
 3. Here you can set the screen the user gets after login:
 * sites -> /sites.html/content
-*cassets -> /assets.html/content/dam
+* assets -> /assets.html/content/dam
 Test this by log-out/log-in, then you would be redirected to a different page
 
 3. Dynamic start page
