@@ -4,7 +4,7 @@ Optimize your Experience Manager author experience
 The following elements are supplied with the lab:
 
 AEM 6.3.0 (http://localhost:4502) with default admin/admin authentication
-Custom application provided in code/L729
+Custom application provided in code/TL19
 Atom (texteditor)
 Gist used during the lab: 
 
