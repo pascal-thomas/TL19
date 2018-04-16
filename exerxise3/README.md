@@ -18,7 +18,7 @@ Of course you can do them also in your IDE, then deploy into AEM.
 ## Changing product-label (top left)
 1. Login to crx/de (http://localhost:4502/crx/de/index.jsp)
 2. Navigate to the following path: /apps/L729/i18n/en/aem
-3. In the properties tab you see a property called sling:message, change this to a custom value (it was Adobe Experience Manager)
+3. In the properties tab you see a property called sling:message, change this to a custom value (it was Adobe Experience Manager).
 4. Save your changes and check on the author interface, this should now display the new value
 
 ## Changing version-box popup
