@@ -22,7 +22,7 @@
     <!-- ====================================================================== -->
     <parent>
         <groupId>adobesummit</groupId>
-        <artifactId>L729</artifactId>
+        <artifactId>TL19</artifactId>
         <version>1.0-SNAPSHOT</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
@@ -30,9 +30,9 @@
     <!-- ====================================================================== -->
     <!-- P R O J E C T  D E S C R I P T I O N                                   -->
     <!-- ====================================================================== -->
-    <artifactId>L729-ui.apps</artifactId>
+    <artifactId>TL19-ui.apps</artifactId>
     <packaging>content-package</packaging>
-    <name>L729 - UI apps</name>
+    <name>TL19 - UI apps</name>
     <description>UI module</description>
 
     <!-- ====================================================================== -->
@@ -92,12 +92,12 @@
                     <filterSource>src/main/content/META-INF/vault/filter.xml</filterSource>
                     <verbose>true</verbose>
                     <failOnError>true</failOnError>
-                    <group>L729</group>
+                    <group>TL19</group>
                     <embeddeds>
                         <embedded>
                             <groupId>adobesummit</groupId>
-                            <artifactId>L729.core</artifactId>
-                            <target>/apps/L729/install</target>
+                            <artifactId>TL19.core</artifactId>
+                            <target>/apps/TL19/install</target>
                         </embedded>
                     </embeddeds>
                     <properties>
@@ -119,7 +119,7 @@
     <dependencies>
         <dependency>
             <groupId>adobesummit</groupId>
-            <artifactId>L729.core</artifactId>
+            <artifactId>TL19.core</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
 
