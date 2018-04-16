@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workspaceFilter version="1.0">
-    <filter root="/apps/L729"/>
+    <filter root="/apps/TL19"/>
     <filter root="/apps/sling" />
     <filter root="/apps/granite/ui" />
     <filter root="/apps/dam/gui/coral" />
