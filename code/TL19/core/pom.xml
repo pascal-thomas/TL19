@@ -12,14 +12,14 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>adobesummit</groupId>
-		<artifactId>L729</artifactId>
+		<artifactId>TL19</artifactId>
 		<version>1.0-SNAPSHOT</version>
 		<relativePath>../pom.xml</relativePath>
 	</parent>
-	<artifactId>L729.core</artifactId>
+	<artifactId>TL19.core</artifactId>
 	<packaging>bundle</packaging>
-	<name>L729 - Core</name>
-	<description>Core bundle for L729</description>
+	<name>TL19 - Core</name>
+	<description>Core bundle for TL19</description>
 	<build>
 		<plugins>
 			<plugin>
