@@ -13,7 +13,6 @@ In this exercise we are going to do the following things:
 * Changing menus presented to the user
 
 NOTE: The instructions below are done directly in CRX/DE.
-
 Of course you can do them also in your IDE, then deploy into AEM.
 
 ## Changing product-label (top left)
