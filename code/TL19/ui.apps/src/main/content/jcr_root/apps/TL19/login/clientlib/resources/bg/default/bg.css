@@ -15,7 +15,7 @@
         /*content: "orientation portrait (768x966)";*/
     /*}*/
     #bg_default {
-        background-image: url('/apps/L729/login/clientlib/resources/bg/default/768x966.jpg');
+        background-image: url('/apps/TL19/login/clientlib/resources/bg/default/768x966.jpg');
     }
 }
 @media only screen and (orientation: landscape) {
@@ -23,7 +23,7 @@
         /*content: "orientation landscape (1024x710)";*/
     /*}*/
     #bg_default {
-        background-image: url('/apps/L729/login/clientlib/resources/bg/default/1024x710.jpg');
+        background-image: url('/apps/TL19/login/clientlib/resources/bg/default/1024x710.jpg');
     }
 }
 
@@ -32,7 +32,7 @@
         /*content: "orientation portrait (768x966, retina)";*/
     /*}*/
     #bg_default {
-        background-image: url('/apps/L729/login/clientlib/resources/bg/default/1536x2048.jpg');
+        background-image: url('/apps/TL19/login/clientlib/resources/bg/default/1536x2048.jpg');
     }
 }
 
@@ -41,7 +41,7 @@
         /*content: "orientation landscape (1024x710, retina)";*/
     /*}*/
     #bg_default {
-        background-image: url('/apps/L729/login/clientlib/resources/bg/default/2048x1536.jpg');
+        background-image: url('/apps/TL19/login/clientlib/resources/bg/default/2048x1536.jpg');
     }
 }
 
@@ -50,7 +50,7 @@
         /*content: "desktop (1280x768)";*/
     /*}*/
     #bg_default {
-        background-image: url('/apps/L729/login/clientlib/resources/bg/default/1280x768.jpg');
+        background-image: url('/apps/TL19/login/clientlib/resources/bg/default/1280x768.jpg');
     }
 }
 
@@ -59,7 +59,7 @@
         /*content: "desktop (1280, retina)";*/
     /*}*/
     #bg_default {
-        background-image: url('/apps/L729/login/clientlib/resources/bg/default/2048x1536.jpg');
+        background-image: url('/apps/TL19/login/clientlib/resources/bg/default/2048x1536.jpg');
     }
 }
 
@@ -68,6 +68,6 @@
         /*content: "desktop (2048x1536)";*/
     /*}*/
     #bg_default {
-        background-image: url('/apps/L729/login/clientlib/resources/bg/default/2048x1536.jpg');
+        background-image: url('/apps/TL19/login/clientlib/resources/bg/default/2048x1536.jpg');
     }
 }
