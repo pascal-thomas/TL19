@@ -22,11 +22,11 @@ Of course you can do them also in your IDE, then deploy into AEM.
 4. Save your changes and check on the author interface, this should now display the new value
 
 ## Changing version-box popup
-1.Login to crx/de (http://localhost:4502/crx/de/index.jsp)
+1. Login to crx/de (http://localhost:4502/crx/de/index.jsp)
 2. Navigate to /apps/granite/ui/components/shell/help/about/about.jsp
 3. Search for <!-- Lab 729 insert line here -->, replace it with the following line: <p>Summit release: <%= version.getVersionInfo() %> </p>
 4. Save your changes
-5.n Now look at the version pop-up (Help -> About screen), this now displays the version of the custom OSGi bundle.
+5. Now look at the version pop-up (Help -> About screen), this now displays the version of the custom OSGi bundle.
 
 ## Changing name + link of the help-items
 1. Login to crx/de (http://localhost:4502/crx/de/index.jsp)
