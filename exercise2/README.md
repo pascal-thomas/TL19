@@ -11,7 +11,7 @@ In the supplied application at the location /apps/TL19/login there is a custom l
 First we deploy the supplied application, and specify the new loginscreen in the OSGi-settings.
 
 1. open a terminal
-2. (go to $CODE: cd $CODE) cd Downloads/TL19-master/code/TL19
+2. cd Downloads/TL19-master/code/TL19
 3. build and deploy the application via this command:  
 mvn clean install -PautoInstallPackage
 4. Go to http://localhost:4502/system/console/configMgr
