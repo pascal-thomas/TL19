@@ -11,14 +11,14 @@ Outline of this exercise:
 
 ## Customizing your package
 
-1. Go the location: $CODE/ui.apps/src/main/content/META-INF/vault/thumbnails/
+1. Go the location: cd Downloads/TL19-master/code/TL19/ui.apps/src/main/content/META-INF/vault/thumbnails/
 2. In here you see the thumbnail.png file, that is displayed in the package manager
 3. Replace the icon with your own icon (63x64 pixels)
 4. Redeploy the application, and check in package manager
 
 ### adding extra description
 
-1. Open the pom.xml of the ui.apps application ($CODE/ui.apps/pom.xml)
+1. Open the pom.xml of the ui.apps application (cd Downloads/TL19-master/code/TL19/ui.apps/pom.xml)
 2. Search for the description element
 3. The content of this element is displayed in the package manager
 
@@ -26,7 +26,7 @@ Outline of this exercise:
 
 When you want a more meaningful name of the packagename displayed
 
-1. Open the pom.xml of the ui.apps application ($CODE/ui.apps/pom.xml)
+1. Open the pom.xml of the ui.apps application (cd Downloads/TL19-master/code/TL19/ui.apps/pom.xml)
 2. Search for the artifactId element
 3. The content of this element is displayed as the name in the package manager
 
