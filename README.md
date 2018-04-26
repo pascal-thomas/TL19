@@ -34,7 +34,7 @@ Outline of the lab:
 * Integrate Adobe Experience Cloud features
 * More info on the assets card
 
-## [Exercise 5](exercise5/README.md)
+## [Exercise 5 BONUS](exercise5/README.md)
 
 * Customized styling for packages
 * Custom Healthchecks from the author UI
