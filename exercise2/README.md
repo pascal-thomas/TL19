@@ -78,8 +78,8 @@ border: solid 1px black;
 border-top-width: 0;
 z-index: 100000000000000;
 }
-- Inner HTML: DEV
-- Browser title: DEV
+- Inner HTML: TL19
+- Browser title: TL19
 
 After saving the changes, you will see the indicator being shown on every screen in the author environment.
 
