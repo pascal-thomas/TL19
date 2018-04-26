@@ -26,6 +26,7 @@ NOTE: See the path changing in your browser from /libs to /apps
 
 The images are stored at the location /apps/TL19/login/clientlib/resources/bg/default, they are named to the resolution.
 Use the same image-names when you change the images, otherwise you need to change stylesheets as well.
+You can find an example for your screenresolution at http://wallpaperswide.com/abstract_background_brown_and_blue_circles-wallpapers.html
 
 For the desktop, use the following resolutions:
 - 2048x1536.jpg
