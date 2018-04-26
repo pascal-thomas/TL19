@@ -4,12 +4,14 @@ Objective: Change the default start screen (after login)
 
 Expected duration: 5 minutes
 
-## 1. Deploying application
+## 1. Downloading and deploying application
 
 First we deploy the supplied application to the author instance.
+Download the github content to your downloads folder https://github.com/pascal-thomas/TL19
+Unzip TL19-master.zip
 
 1. open a terminal
-2. go to $CODE: cd $CODE
+2. (go to $CODE: cd $CODE or ) cd Downloads/TL19-master/code/TL19
 3. build and deploy the application via this command:  
 mvn clean install -PautoInstallPackage
 
