@@ -41,8 +41,6 @@ Once the images are replaced, you need to redeploy your application.
 When the application is redeployed, then you can reload the loginpage to see the new background image.
 
 ## Customize the login screen
-NOTE: The instructions below are done directly in CRX/DE.
-Of course you can do them also in your IDE, then deploy into AEM.
 
 Now you can customize it to your own needs.  
 
