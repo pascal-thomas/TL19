@@ -2,7 +2,7 @@
 
 Objective: Custom loginscreen presented to users
 
-Expected duration: 20 minutes
+Expected duration: 15 minutes
 
 In the supplied application at the location /apps/TL19/login there is a custom loginscreen.
 
