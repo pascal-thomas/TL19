@@ -6,7 +6,7 @@ The following elements are supplied with the lab:
 * Custom application TL19
 * Atom (texteditor)
  
-Gist used during the lab: 
+Gist used during the lab: https://gist.github.com/pascal-thomas/4ef12b39aaabb2af07c157df71dd778b
 
 Outline of the lab:
 
