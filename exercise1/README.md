@@ -36,3 +36,5 @@ If you look at the supplied code, there is a servlet called 'DefaultPageServlet'
 This servlet is implementing a dynamic startpage depending on the user.
 
 If you want, you can add custom rules yourself, and test this.
+
+Log-out user varmstrong and log-in again with admin/admin.
