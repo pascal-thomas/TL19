@@ -30,7 +30,8 @@ The images are stored at the location /apps/TL19/login/clientlib/resources/bg/de
 ~/Downloads/TL19-master/code/TL19/ui.apps/src/main/content/jcr_root/apps/TL19/login/clientlib/resources/bg/default)
 
 Use the same image-names when you change the images, otherwise you need to change stylesheets as well.
-You can find an example for your screenresolution at http://wallpaperswide.com/abstract_background_brown_and_blue_circles-wallpapers.html
+
+You can find an examples for your screenresolution at cd Downloads/TL19-master/images
 
 For the desktop, use the following resolutions:
 - 2048x1536.jpg
