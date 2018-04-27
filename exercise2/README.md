@@ -26,6 +26,7 @@ NOTE: See the path changing in your browser from /libs to /apps
 
 The images are stored at the location /apps/TL19/login/clientlib/resources/bg/default, they are named to the resolution.
 ("Shift+command+G" and fill in
+
 ~/Downloads/TL19-master/code/TL19/ui.apps/src/main/content/jcr_root/apps/TL19/login/clientlib/resources/bg/default)
 
 Use the same image-names when you change the images, otherwise you need to change stylesheets as well.
