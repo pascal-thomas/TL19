@@ -11,7 +11,7 @@ Outline of this exercise:
 
 ## Customizing your package
 
-1. Go the location: cd Downloads/TL19-master/code/TL19/ui.apps/src/main/content/META-INF/vault/thumbnails/
+1. Go the location: cd Downloads/TL19-master/code/TL19/ui.apps/src/main/content/META-INF/vault/definition/
 2. In here you see the thumbnail.png file, that is displayed in the package manager
 3. Replace the icon with your own icon (63x64 pixels)
 4. Redeploy the application, and check in package manager
