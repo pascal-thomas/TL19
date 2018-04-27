@@ -31,7 +31,7 @@ The images are stored at the location /apps/TL19/login/clientlib/resources/bg/de
 
 Use the same image-names when you change the images, otherwise you need to change stylesheets as well.
 
-You can find an examples for your screenresolution at cd Downloads/TL19-master/images
+You can find an examples for your screenresolution at: cd Downloads/TL19-master/images
 
 For the desktop, use the following resolutions:
 - 2048x1536.jpg
