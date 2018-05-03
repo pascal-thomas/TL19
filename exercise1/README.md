@@ -3,7 +3,7 @@
 Objective: Change the default start screen (after login)
 
 Expected duration: 5 minutes
-
+All files can be found on
 https://github.com/pascal-thomas/TL19
 
 ## 1. Downloading and deploying application
