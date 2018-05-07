@@ -10,10 +10,10 @@ https://github.com/pascal-thomas/TL19
 ## 1. Downloading and deploying application
 
 First we deploy the supplied application to the author instance.
-1. open a terminal
-2. cd
-3. cp -r /Users/tl19/Downloads/m2 .m2
-4. cd $HOME/Downloads/TL19-master/code/TL19/
+1. Download the github file TL19-master to your downloads folder
+2. Unzip TL19-master.zip
+3. open a terminal
+4. cd Downloads/TL19-master/code/TL19
 5. build and deploy the application via this command:  mvn clean install -PautoInstallPackage
 
 
